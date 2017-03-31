@@ -8,7 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-//111
+//from dell laptop
 
 @Entity
 @Table(name = "BANKS_ACCOUNTS")
