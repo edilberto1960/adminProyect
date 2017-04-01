@@ -9,6 +9,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 //from dell laptop
+//ss
 
 @Entity
 @Table(name = "BANKS_ACCOUNTS")
